@@ -1,2 +1,2 @@
 # SoftUni
-Courses taken through my education at SoftUni
+This repo holds my courses at SoftUni: homework, exams, projects and exercises.
