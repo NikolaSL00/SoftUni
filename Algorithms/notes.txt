@@ -1,0 +1,11 @@
+1. Algorithm complexity
+	-> Big(O) notation - operations depending of input
+
+2. Brute force algorithms
+	-> all possible variants
+	
+3. Recursion
+	-> when my big problem can be separated into smaller simmilar problems
+	-> when combining the solutions of the small problems we find the solution of the big problem
+
+4. Backtracking	
